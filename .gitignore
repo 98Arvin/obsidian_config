@@ -1,0 +1,12 @@
+# .gitignore for .obsidian folder
+.DS_Store
+workspace*
+starred*
+data.json
+
+# ignore changes to the graph view
+graph.json
+
+# specific plugin configs to ignore
+plugins/obsidian-git/*
+

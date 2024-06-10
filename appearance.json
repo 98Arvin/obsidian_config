@@ -1,0 +1,14 @@
+{
+  "accentColor": "#ffb86c",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "interfaceFontFamily": "SF Pro",
+  "textFontFamily": "SF Pro",
+  "baseFontSize": 21,
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "Minimal"
+  ],
+  "nativeMenus": false
+}

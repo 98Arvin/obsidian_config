@@ -1,0 +1,14 @@
+{
+  "promptDelete": false,
+  "showLineNumber": false,
+  "autoConvertHtml": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "File",
+  "readableLineLength": false,
+  "propertiesInDocument": "visible",
+  "showInlineTitle": false,
+  "newFileFolderPath": "Zettelkasten",
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "strictLineBreaks": false
+}
