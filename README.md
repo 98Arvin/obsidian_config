@@ -18,7 +18,7 @@ To ensure you have a backup of your current `.obsidian` folder, follow these ste
     ```
 3. Clone this repository to replace your existing `.obsidian` folder:
     ```bash
-    git clone https://internal-repo.basefarm.com/adoriani/obsidian_config.git .obsidian
+    git clone https://github.com/98Arvin/obsidian_config.git .obsidian
     ```
 
 ### Replacing the Existing `.obsidian` Folder Without Backup
@@ -35,5 +35,5 @@ If you prefer to replace your existing `.obsidian` folder without keeping a back
     ```
 3. Clone this repe the current `.ository to set up the new `.obsidian` folder:
     ```bash
-    git clone https://internal-repo.basefarm.com/adoriani/obsidian_config.git .obsidian
+    git clone https://github.com/98Arvin/obsidian_config.git .obsidian
     ```
