@@ -1,4 +1,4 @@
-# Obsidian Configuration Repository
+# Obsidian Configuration - Zettelkasten template
 
 This repository contains the `.obsidian` folder with my preferred configurations for an Obsidian vault, tailored to utilize the Zettelkasten method for efficient note-taking and knowledge management.
 
