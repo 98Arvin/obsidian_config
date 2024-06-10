@@ -1,29 +1,39 @@
-# obsidian-config
+# Obsidian Configuration Repository
 
-The `.obsidian` folder you would find in an Obsidian vault,
-with some of my preferred configs.
+This repository contains the `.obsidian` folder with my preferred configurations for an Obsidian vault.
 
-## Setup
+## Installation Instructions
 
-While keeping a copy of the existing `.obsidian` folder:
+### Preserving a Backup of Your Existing `.obsidian` Folder
 
-```bash
-# Navigate to your vault folder
-cd /path/to/your/obsidian/vault
-# Keep a copy of your existing .obsidian folder just in case
-cp -r .obsidian previous_obsidian_configs
-# Clone this repo as the new .obsidian for your vault
-git clone https://internal-repo.basefarm.com/adoriani/obsidian_config.git .obsidian
-```
+To ensure you have a backup of your current `.obsidian` folder, follow these steps:
 
-*Without* making a copy of the existing `.obsidian` folder:
+1. Navigate to your vault directory:
+    ```bash
+    cd /path/to/your/obsidian/vault
+    ```
+2. Create a backup of your current `.obsidian` folder:
+    ```bash
+    cp -r .obsidian previous_obsidian_configs
+    ```
+3. Clone this repository to replace your existing `.obsidian` folder:
+    ```bash
+    git clone https://internal-repo.basefarm.com/adoriani/obsidian_config.git .obsidian
+    ```
 
-```bash
-# Navigate to your vault folder
-cd /path/to/your/obsidian/vault
-# Delete the previous .obsidian folder
-rm -r .obsidian
-# Clone this repo as the new .obsidian for your vault
-git clone https://internal-repo.basefarm.com/adoriani/obsidian_config.git .obsidian
-```
+### Replacing the Existing `.obsidian` Folder Without Backup
 
+If you prefer to replace your existing `.obsidian` folder without keeping a backup, use the following commands:
+
+1. Navigate to your vault directory:
+    ```bash
+    cd /path/to/your/obsidian/vault
+    ```
+2. Removobsidian` folder:
+    ```bash
+    rm -r .obsidian
+    ```
+3. Clone this repe the current `.ository to set up the new `.obsidian` folder:
+    ```bash
+    git clone https://internal-repo.basefarm.com/adoriani/obsidian_config.git .obsidian
+    ```
