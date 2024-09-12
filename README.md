@@ -137,7 +137,7 @@ If you prefer to replace your existing `.obsidian` folder without keeping a back
 2. Go to **Settings > Community plugins** and ensure **Safe mode** is off.
 3. Click **Browse** and search for **Obsidian Git**.
 4. Install and enable the plugin.
-5. Go to **Settings > Obsidian Git** and configure it as needed (e.g., set up auto-pull, auto-push).
+5. Go to **Settings > Obsidian Git** and configure it as needed (e.g., set up auto-push).
 
 ### Summary of Commands:
 1. Generate SSH key (if needed):
