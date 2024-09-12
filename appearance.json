@@ -1,8 +1,8 @@
 {
-  "accentColor": "#ffb86c",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "interfaceFontFamily": "SF Pro",
-  "textFontFamily": "SF Pro",
+  "accentColor": "#fa8405",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font",
+  "interfaceFontFamily": "Cabin",
+  "textFontFamily": "Crimson Pro",
   "baseFontSize": 21,
   "theme": "obsidian",
   "cssTheme": "Minimal",

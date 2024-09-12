@@ -10,5 +10,12 @@
   "newFileFolderPath": "Zettelkasten",
   "alwaysUpdateLinks": true,
   "spellcheck": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

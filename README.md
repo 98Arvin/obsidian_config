@@ -1,20 +1,51 @@
-# Obsidian Configuration - Zettelkasten template
+# Obsidian Setup - Zettelkasten template
 
-This repository contains the `.obsidian` folder with my preferred configurations for an Obsidian vault, tailored to utilize the Zettelkasten method for efficient note-taking and knowledge management.
+This repo has my`.obsidian` folder, set up specifically for the Zettelkasten method. If you're looking to streamline your note-taking and knowledge management in Obsidian, you're in the right place.
 
-## What is the Zettelkasten Method?
+### What’s the Zettelkasten Method?
 
-The Zettelkasten method is a powerful system for organizing and linking notes, originally developed by the German sociologist Niklas Luhmann. The term "Zettelkasten" translates to "slip box" or "note box," which captures the essence of the method: a collection of notes (or "slips") that are interconnected to form a web of knowledge.
+The Zettelkasten method is a powerful system for organizing and linking notes, originally developed by the German sociologist Niklas Luhmann. The term **Zettelkasten** translates to **slip box** or **note box**, which captures the essence of the method: a collection of notes _or slips_ that are interconnected to form a web of knowledge.
 
-### Key Features of the Zettelkasten Method:
+### Why Use the Zettelkasten Method?
 
-- **Linking:** Each note is linked to related notes, creating a network of ideas that mirror the way our brains think.
-- **Tagging:** Notes are tagged with relevant keywords to facilitate quick retrieval and context-building.
-- **Referencing:** Notes reference other notes, sources, or ideas, providing a comprehensive view of a topic.
-- **Daily Notes:** Regular note-taking habits are encouraged through daily notes, which help in capturing fleeting thoughts and ideas.
-- **Search Functions:** Powerful search capabilities allow for quick access to notes, enhancing the ability to draw connections between ideas.
+- **No More Folders:** Forget about rigid folder structures. Each note is linked to others, creating a network of ideas.
+- **Tagging:** Add relevant tags for easy retrieval and context.
+- **Referencing:** Notes can reference other notes, ideas, or sources, building a connected knowledge base.
+- **Daily Notes:** Capture thoughts and ideas regularly with daily notes.
+- **Powerful Search:** Use Obsidian’s search to quickly find and connect related ideas—again, no need for folders.
 
-## Installation Instructions
+## Hotkeys Overview
+
+Here’s a list of the custom hotkeys for this Obsidian setup:
+
+- **Delete File:** `Ctrl` + `Shift` + `Delete`
+- **Insert Template:** `Alt` + `T`
+- **Go Back:** `Alt` + `ArrowLeft`
+- **Go Forward:** `Alt` + `ArrowRight`
+- **Add Internal Link:** `Ctrl` + `L`
+- **Toggle Left Sidebar:** `Alt` + `Z`
+- **Toggle Right Sidebar:** `Alt` + `X`
+- **Toggle Checklist Status:** `Ctrl` + `Shift` + `L`
+- **Open Daily Notes:** `Alt` + `D`
+- **Insert Code Block:** `Alt` + `C`
+- **Omnisearch Vault Search:** `Alt` + `O`
+- **Fold All:** `Alt` + `Shift` + `ArrowUp`
+- **Unfold All:** `Alt` + `Shift` + `ArrowDown`
+- **Add Metadata Property:** `Ctrl` + `\`
+
+## Fonts
+
+For the best experience with this Obsidian setup, you'll need to install the following fonts:
+
+- **Interface Font:** [Cabin](https://fonts.google.com/specimen/Cabin)
+- **Text Font:** [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro)
+- **Monospace Font:** [Caskaydia Nerd Font](https://www.nerdfonts.com/font-downloads)
+
+Once you’ve got these fonts installed, the Obsidian config will automatically use them, giving your setup a clean and polished vibe.
+
+
+
+# Installation Instructions
 
 ### Preserving a Backup of Your Existing `.obsidian` Folder
 
@@ -49,9 +80,6 @@ If you prefer to replace your existing `.obsidian` folder without keeping a back
     ```bash
     git clone https://internal-repo.basefarm.com/adoriani/obsidian_config.git .obsidian
     ```
-
-By utilizing the Zettelkasten method in Obsidian, this configuration aims to create a highly organized and interconnected note-taking system, enhancing your ability to manage and develop complex ideas effectively.
-
 
 ## Obsidian Git setup instructions
 
@@ -137,4 +165,3 @@ By utilizing the Zettelkasten method in Obsidian, this configuration aims to cre
    git commit -m "Add existing Obsidian vault"
    git push -u origin main
    ```
-

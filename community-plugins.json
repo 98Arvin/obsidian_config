@@ -12,5 +12,6 @@
   "obsidian-tasks-plugin",
   "oz-clear-unused-images",
   "omnisearch",
-  "image-converter"
+  "image-converter",
+  "obsidian-linter"
 ]
