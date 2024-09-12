@@ -43,8 +43,6 @@ For the best experience with this Obsidian setup, you'll need to install the fol
 
 Once you’ve got these fonts installed, the Obsidian config will automatically use them, giving your setup a clean and polished vibe.
 
-
-
 # Installation Instructions
 
 ### Preserving a Backup of Your Existing `.obsidian` Folder
