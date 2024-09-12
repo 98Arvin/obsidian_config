@@ -117,7 +117,7 @@ If you prefer to replace your existing `.obsidian` folder without keeping a back
 ### Step 4: Add the Remote Repository
 1. Add your existing GitLab repository as a remote:
    ```sh
-   git remote add origin git@gitlab.com:your-username/your-repo.git
+   git remote add origin git@gitlab.com:$USER/your-repo.git
    ```
 
 ### Step 5: Commit and Push Your Vault to GitLab
@@ -157,7 +157,7 @@ If you prefer to replace your existing `.obsidian` folder without keeping a back
    ```
 4. Add remote repository:
    ```sh
-   git remote add origin git@gitlab.com:your-username/your-repo.git
+   git remote add origin git@gitlab.com:$USER/your-repo.git
    ```
 5. Commit and push:
    ```sh
